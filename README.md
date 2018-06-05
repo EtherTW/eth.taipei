@@ -11,7 +11,7 @@ Taipei Ethereum Meetup 官方 DApp 網頁開發說明 (Draft)
 
 - 2018, 6 月, 正逢 COSCUP 2018 以及 HITCON 2018 即將到來, 有很多資訊我們自己也需要在我們官方網頁公布. 所以想改建第二代 eth.taipei 網頁. 但希望也有 DApp 功能.
 
-- 目前 eth.taipei 網頁: 
+- 目前 eth.taipei 網頁:
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_72AC820642B2C438F435E454206A65A5DEDEB9627652E7FB0F6F3F19910DB86E_1527956665038_Screen+Shot+2018-06-03+at+12.24.07+AM.png)
 
 ## 原始檔
