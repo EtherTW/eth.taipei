@@ -1,0 +1,16 @@
+table.table {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.section-header h2 {
+  color: #ffffff;
+}
+
+.section-header p {
+  color: #ffffff;
+}
+
+.event-details {
+  line-height: 190%;
+}
