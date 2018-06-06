@@ -10,8 +10,12 @@ Taipei Ethereum Meetup 官方 DApp 網頁開發說明 (Draft)
   - smart contract: https://github.com/EtherTW/LogoVote2017
 
 - 2018, 6 月, 正逢 COSCUP 2018 以及 HITCON 2018 即將到來, 有很多資訊我們自己也需要在我們官方網頁公布. 所以想改建第二代 eth.taipei 網頁. 但希望也有 DApp 功能.
+  
+- 目前 eth.taipei 網頁: forward to https://ethertw.github.io/tickets/
+  - source code (with contract): https://github.com/EtherTW/tickets
+  https://github.com/EtherTW/eth.taipei/pull/1 (merged Look&Feel from tickets to eth.taipei)
 
-- 目前 eth.taipei 網頁:
+- 第一代 eth.taipei 網頁:
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_72AC820642B2C438F435E454206A65A5DEDEB9627652E7FB0F6F3F19910DB86E_1527956665038_Screen+Shot+2018-06-03+at+12.24.07+AM.png)
 
 ## 原始檔
@@ -35,18 +39,20 @@ github repo: https://github.com/EtherTW/eth.taipei
 2. Documents 公佈
 3. Chat room or bot
 
-## 參加人員
+## 參加人員 (collaborators, please fork this repo, 用 PR update, 有權限的人會 pull)
 - PM:
 - 美工設計:
 - React 工程師:
-- Truffle 工程師:
+- Truffle or smart contract 工程師s:
 - 測試:
 - Deploy 及 資安工程師:
 
 ## Scope
+- 此網站純屬非營利用途. 以推廣 Ethereum 技術,教學, blockchain 與 smart contract 應用為目的.
+
 ## Timeframe
 - 6/19/2019 (eth.taipei domain name 到期, 可再續延)
 - 6/1/2018 ~ 7/1/2019 (第二代官網), 之後再換一批人開發或繼續維護
 
 ## 注意事項
-1. 未來可能會有外國 users login, 一開始我們就注意 GDPR 個資問題
+1. 未來可能會有外國 users login, 一開始我們就注意 GDPR 個資問題, (盡量(完全)不收集任何個資)
