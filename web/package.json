@@ -4,24 +4,27 @@
   "description": "truffle dapp with react/redux",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.1.1",
     "ethjs": "^0.4.0",
     "prop-types": "^15.6.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-intl": "^2.4.0",
-    "react-redux": "^5.0.7",
-    "react-router-dom": "^4.2.2",
-    "reactstrap": "^6.0.1",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1",
+    "reactstrap": "^8.0.1",
     "redux": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb": "^16.1.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.1",
     "eslint-plugin-import": "^2.12.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.9.1",
-    "react-scripts": "^1.1.4",
+    "react-scripts": "^3.0.1",
     "react-test-renderer": "^16.3.1",
     "redux-logger": "^3.0.6"
   },
@@ -31,5 +34,17 @@
     "test": "react-scripts test --env=jsdom",
     "lint": "eslint src --ignore-path .gitignore",
     "lint-fix": "eslint src --fix --ignore-path .gitignore"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
