@@ -4,6 +4,9 @@
   "description": "truffle dapp with react/redux",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "bootstrap": "^4.1.1",
     "ethjs": "^0.4.0",
     "prop-types": "^15.6.1",

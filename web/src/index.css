@@ -3,3 +3,16 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.social-links {
+}
+
+.fb {
+  padding-left: 10px;
+  color: #4267b2;
+}
+
+.twitter {
+  padding-left: 10px;
+  color: rgb(29, 161, 242);
+}
