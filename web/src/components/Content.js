@@ -2,7 +2,7 @@ import React from 'react';
 // import PropTypes from 'prop-types';
 import { injectIntl } from 'react-intl';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFacebookSquare, faTwitter, faMediumM } from '@fortawesome/free-brands-svg-icons'
+import { faFacebookSquare, faGithub, faMediumM, faTwitter } from '@fortawesome/free-brands-svg-icons'
 
 export function Content(/* props */) {
   return (
@@ -15,6 +15,9 @@ export function Content(/* props */) {
       </a>
       <a href="https://medium.com/taipei-ethereum-meetup" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faMediumM} size="3x" className="social-medium"/>
+      </a>
+      <a href="https://github.com/EtherTW" target="_blank" rel="noopener noreferrer">
+        <FontAwesomeIcon icon={faGithub} size="3x" className="github" />
       </a>
     </p>
   );
