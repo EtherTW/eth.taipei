@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eth.taipei/precache-manifest.fc836d5776291349ea1c93593aea64a7.js"
+  "/eth.taipei/precache-manifest.e8c89c2968dfe544127e570e5077d1ee.js"
 );
 
 self.addEventListener('message', (event) => {
