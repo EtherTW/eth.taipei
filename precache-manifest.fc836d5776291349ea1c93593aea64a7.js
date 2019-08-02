@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f57cd431a26c34f7e954931f81a49851",
+    "revision": "adf2343fc8c8027fe79466e3196a28f7",
     "url": "/eth.taipei/index.html"
   },
   {
-    "revision": "75b73ec56cf9d82af084",
+    "revision": "b8b979682211538f719b",
     "url": "/eth.taipei/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "e37450bb98cb92e003c1",
+    "revision": "39b2b1622ebc97c9a6a6",
     "url": "/eth.taipei/static/css/main.02e31efa.chunk.css"
   },
   {
-    "revision": "75b73ec56cf9d82af084",
-    "url": "/eth.taipei/static/js/2.a2465d79.chunk.js"
+    "revision": "b8b979682211538f719b",
+    "url": "/eth.taipei/static/js/2.3ce1b247.chunk.js"
   },
   {
-    "revision": "e37450bb98cb92e003c1",
-    "url": "/eth.taipei/static/js/main.72afabd2.chunk.js"
+    "revision": "39b2b1622ebc97c9a6a6",
+    "url": "/eth.taipei/static/js/main.5a380cd0.chunk.js"
   },
   {
     "revision": "65aba234cbb94e4df9f9",
