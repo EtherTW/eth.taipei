@@ -32,7 +32,7 @@ export class App extends Component {
     const locale = this.getLocale();
     return (
       <IntlProvider locale={locale.locale} messages={locale.messages}>
-        <Router basename="/">
+        <Router basename={process.env.PUBLIC_URL}>
           <div className="App">
             <Header />
             <Switch>
