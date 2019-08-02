@@ -7,7 +7,7 @@ import './index.css';
 import App from './App';
 import { store } from './state/store';
 import { updateWeb3Status } from './state/web3/actions';
-import registerServiceWorker from './registerServiceWorker';
+// import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
   <Provider store={store}>
@@ -15,7 +15,7 @@ ReactDOM.render(
   </Provider>
   , document.getElementById('root'),
 );
-registerServiceWorker();
+// registerServiceWorker();
 
 window.addEventListener('load', () => {
   // could remove and only use lib/web3utils
