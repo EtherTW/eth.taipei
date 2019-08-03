@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4bc3a67f14733a42b403dd5689dbe6e",
+    "revision": "5e007b6c2f42a933d0286c1e4e8f5f1f",
     "url": "/eth.taipei/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth.taipei/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "603ba84d355895797737",
+    "revision": "0cad75583adfa633c69d",
     "url": "/eth.taipei/static/css/main.304748f9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eth.taipei/static/js/2.b93b1884.chunk.js"
   },
   {
-    "revision": "603ba84d355895797737",
-    "url": "/eth.taipei/static/js/main.2a02d95b.chunk.js"
+    "revision": "0cad75583adfa633c69d",
+    "url": "/eth.taipei/static/js/main.e88eb45e.chunk.js"
   },
   {
     "revision": "65aba234cbb94e4df9f9",
