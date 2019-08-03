@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/eth.taipei/static/css/main.02e31efa.chunk.css",
-    "main.js": "/eth.taipei/static/js/main.d594b316.chunk.js",
-    "main.js.map": "/eth.taipei/static/js/main.d594b316.chunk.js.map",
+    "main.css": "/eth.taipei/static/css/main.304748f9.chunk.css",
+    "main.js": "/eth.taipei/static/js/main.2a02d95b.chunk.js",
+    "main.js.map": "/eth.taipei/static/js/main.2a02d95b.chunk.js.map",
     "runtime~main.js": "/eth.taipei/static/js/runtime~main.08b3d580.js",
     "runtime~main.js.map": "/eth.taipei/static/js/runtime~main.08b3d580.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/eth.taipei/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.a2465d79.chunk.js": "/eth.taipei/static/js/2.a2465d79.chunk.js",
-    "static/js/2.a2465d79.chunk.js.map": "/eth.taipei/static/js/2.a2465d79.chunk.js.map",
+    "static/js/2.b93b1884.chunk.js": "/eth.taipei/static/js/2.b93b1884.chunk.js",
+    "static/js/2.b93b1884.chunk.js.map": "/eth.taipei/static/js/2.b93b1884.chunk.js.map",
     "index.html": "/eth.taipei/index.html",
-    "precache-manifest.af53a97c07c7ae467fb869af3bd2f824.js": "/eth.taipei/precache-manifest.af53a97c07c7ae467fb869af3bd2f824.js",
+    "precache-manifest.8874404a1860533f14eb33147484167c.js": "/eth.taipei/precache-manifest.8874404a1860533f14eb33147484167c.js",
     "service-worker.js": "/eth.taipei/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/eth.taipei/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.02e31efa.chunk.css.map": "/eth.taipei/static/css/main.02e31efa.chunk.css.map",
+    "static/css/main.304748f9.chunk.css.map": "/eth.taipei/static/css/main.304748f9.chunk.css.map",
     "static/media/background.png": "/eth.taipei/static/media/background.c67f6de1.png",
     "static/media/logo.png": "/eth.taipei/static/media/logo.c50f665e.png"
   }
