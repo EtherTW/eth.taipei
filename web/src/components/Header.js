@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
-import { injectIntl } from 'react-intl'
+import { injectIntl } from 'react-intl';
 import {
   Collapse,
   Navbar,

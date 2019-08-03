@@ -7,6 +7,11 @@ body {
 .social-links {
 }
 
+.meetup {
+  padding-left: 10px;
+  color: #f65858;
+}
+
 .fb {
   padding-left: 10px;
   color: #4267b2;

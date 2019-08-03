@@ -1,12 +1,16 @@
 import React from 'react';
 // import PropTypes from 'prop-types';
 import { injectIntl } from 'react-intl';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFacebookSquare, faGithub, faMediumM, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebookSquare, faGithub, faMediumM, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faCalendar } from '@fortawesome/free-regular-svg-icons';
 
 export function Content(/* props */) {
   return (
     <p className="social-links">
+      <a href="https://www.meetup.com/Taipei-Ethereum-Meetup/" target="_blank" rel="noopener noreferrer">
+        <FontAwesomeIcon icon={faCalendar} size="3x" className="meetup"/>
+      </a>
       <a href="https://www.facebook.com/groups/taipei.ethereum.meetup/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faFacebookSquare} size="3x" className="fb"/>
       </a>
